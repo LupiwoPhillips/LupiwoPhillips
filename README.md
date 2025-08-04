@@ -5,7 +5,7 @@
 
 I am a driven 22-year-old aspiring software developer currently honing my skills at CodeSpace Academy. Passionate about creating seamless and visually engaging digital experiences, my aim is to specialize in front-end development. With a keen eye for design and a deep interest in crafting user-friendly interfaces, I'm eager to contribute to the ever-evolving tech community. My dedication to learning and innovation positions me as a promising talent in the fast-growing world of technology.
 
-<h3 align="left"> Skills : HTML, CSS, JS, UI, UX </h3>
+<h3 align="left"> Skills : HTML, CSS, JS, UI, UX, REACT, VITE, NODE.JS </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lupiwophillips&label=Profile%20views&color=0e75b6&style=flat" alt="lupiwophillips" /> </p>
