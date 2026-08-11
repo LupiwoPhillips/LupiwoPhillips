@@ -1,24 +1,62 @@
-## Hi, I'm Lupiwo Phillips 😄👋
+# Hey, I'm Lupiwo 👋
 
-![github-header-image](https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip)
+Junior developer building web apps with JavaScript, mostly on the Vue and React side, currently working my way into the backend.
 
+I like taking an idea, building it end to end, and figuring out what breaks along the way.
 
-I am a driven 22-year-old aspiring software developer currently honing my skills at CodeSpace Academy. Passionate about creating seamless and visually engaging digital experiences, my aim is to specialize in front-end development. With a keen eye for design and a deep interest in crafting user-friendly interfaces, I'm eager to contribute to the ever-evolving tech community. My dedication to learning and innovation positions me as a promising talent in the fast-growing world of technology.
+---
 
-<h3 align="left"> Skills : HTML, CSS, JS, UI, UX, REACT, VITE, NODE.JS </h3>
+## Currently building
 
+- **Personal Finance Dashboard** — a full-featured finance tracker (Vue 3, Supabase, Postgres) with budgets, goals, and recurring transactions.
 
-<p align="left"> <img src="https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip" alt="lupiwophillips" /> </p>
+## Some things I've built
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip" target="blank"><img align="center" src="https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip" alt="https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip" height="30" width="40" /></a>
-<a href="https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip" target="blank"><img align="center" src="https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip" alt="https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip" height="30" width="40" /></a>
-<a href="https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip" target="blank"><img align="center" src="https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip" alt="https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip" height="30" width="40" /></a>
-</p>
+### Personal Finance Dashboard
+A finance tracker with real auth, budgets with alert thresholds, recurring transactions, investment tracking, and CSV/PDF export.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/LupiwoPhillips/LupiwoPhillips/main/chlorogenic/Lupiwo-Phillips-1.9.zip" alt="git" width="40" height="40"/> </a> </p>
+**Tech:** Vue 3 • Pinia • Tailwind CSS • Supabase • PostgreSQL • Chart.js
 
+**Links:** [Repository](https://github.com/LupiwoPhillips/personal-finance-dashbaord)
 
+### No Filter Needed — Podcast App
+A podcast browsing app with season and episode views, built as my final portfolio project on the course.
 
+**Tech:** Vue 3 • Vue Router • Vite
+
+**Links:** [Repository](https://github.com/LupiwoPhillips/LUPPHI24035_PTO2409_Group-A_LUPIWO-PHILLIPS_DJS11) • [Live Demo](https://podcast-api.netlify.app/)
+
+---
+
+## Currently learning
+
+- Backend development with Node.js and Express
+- API design and authentication
+- Database design
+- Deployment
+
+---
+
+## Tech stack
+
+**Frontend**
+HTML • CSS • JavaScript • React • Vue • Vite
+
+**Data / Services**
+Supabase • PostgreSQL • REST APIs
+
+**Tools**
+Git • GitHub • VS Code
+
+---
+
+## Outside the code
+
+<!-- One or two honest lines about what you do outside dev — keep it short, it's just here for personality. -->
+
+---
+
+## Connect
+
+<!-- Add your real links here, e.g.: -->
+<!-- [LinkedIn](your-url) · [Portfolio](your-url) · [Email](mailto:you@example.com) -->
