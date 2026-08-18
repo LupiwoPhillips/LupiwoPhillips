@@ -1,4 +1,4 @@
-![Junior Software Developer Banner](./assets/profile-banner.png)
+[![Junior Software Developer Banner](./assets/profile-banner.png)
 
 Junior developer building web apps with JavaScript, mostly on the Vue and React side, currently working my way into the backend.
 
@@ -104,3 +104,4 @@ The repositories listed on this profile are personal projects and portfolio work
 Unless otherwise stated in an individual repository, the source code is provided for viewing and evaluation purposes only. The code may not be copied, modified, redistributed, republished, or used as the basis for another project without explicit permission from the author.
 
 See the `LICENSE` file in each repository for the specific terms applicable to that project.
+](https://github.com/LupiwoPhillips/LifeOS_TestingPhase.git)
