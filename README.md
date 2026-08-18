@@ -1,12 +1,30 @@
 ![Junior Software Developer Banner](./assets/profile-banner.png)
 
-Junior developer building web apps with JavaScript, mostly on the Vue and React side, currently working my way into the backend.
+Junior developer building web apps with JavaScript, mostly on the Vue and React side, currently expanding into backend development.
 
 I like taking an idea, building it end to end, and figuring out what breaks along the way.
 
 ---
 
 ## Currently building
+
+### LifeOS
+
+A personal operating system designed to help people understand and improve different areas of their lives.
+
+LifeOS brings together daily check-ins, habits, goals, journaling, life areas, streaks, and personal insights into one application — turning everyday actions into a clearer picture of personal progress.
+
+**Status:** 🧪 Active development • Testing & bug fixing
+
+**Tech:** React • JavaScript • Supabase • PostgreSQL • REST APIs
+
+**Links:** [Repository](https://github.com/LupiwoPhillips/LifeOS_TestingPhase.git)
+
+LifeOS is open source and welcomes feedback, bug reports, ideas, and community contributions.
+
+---
+
+## Some things I've built
 
 ### ISeeCrime
 
@@ -17,8 +35,6 @@ A crime mapping and information platform focused on making crime-related informa
 **Links:** [Repository](https://github.com/LupiwoPhillips/my-crime-app.git)
 
 ---
-
-## Some things I've built
 
 ### Personal Finance Dashboard
 
@@ -56,7 +72,9 @@ A web application built to demonstrate modern frontend development, application 
 * SQL and database development with Supabase
 * API design and authentication
 * Database design
-* Deployment
+* Deployment and production workflows
+* Testing, debugging, and maintaining real-world applications
+* Open-source development and collaboration
 
 ---
 
@@ -78,7 +96,7 @@ A web application built to demonstrate modern frontend development, application 
 
 ### Data / Services
 
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8A)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
@@ -93,15 +111,19 @@ A web application built to demonstrate modern frontend development, application 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lupiwo-phillips-074b24311/)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://final-portfolio-ten-navy.vercel.app/)
 
 ---
 
-## Project Licensing
+## Open Source & Licensing
 
-The repositories listed on this profile are personal projects and portfolio work.
+**LifeOS** is an open-source project released under the **MIT License**.
 
-Unless otherwise stated in an individual repository, the source code is provided for viewing and evaluation purposes only. The code may not be copied, modified, redistributed, republished, or used as the basis for another project without explicit permission from the author.
+The project is currently in active testing and development. Feedback, bug reports, feature suggestions, and community contributions are welcome.
+
+For contribution guidelines, see the `CONTRIBUTING.md` file in the LifeOS repository.
+
+Other repositories on this profile are personal projects and portfolio work and may have different licensing terms.
 
 See the `LICENSE` file in each repository for the specific terms applicable to that project.
-](https://github.com/LupiwoPhillips/LifeOS_TestingPhase.git)
