@@ -1,6 +1,6 @@
 # Hi, I'm Lupiwo 👋
 
-![Junior Software Developer Banner]([BANNER_IMAGE_URL](https://chatgpt.com/s/m_6a84b108b8cc8191b7a9acef8f86e479))
+![Junior Software Developer Banner](./assets/profile-banner.png)
 
 Junior developer building web apps with JavaScript, mostly on the Vue and React side, currently working my way into the backend.
 
