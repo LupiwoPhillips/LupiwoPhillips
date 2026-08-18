@@ -1,5 +1,3 @@
-# Hi, I'm Lupiwo 👋
-
 ![Junior Software Developer Banner](./assets/profile-banner.png)
 
 Junior developer building web apps with JavaScript, mostly on the Vue and React side, currently working my way into the backend.
